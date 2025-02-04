@@ -1,3 +1,3 @@
-def fun() {
+def call() {
     sh "trivy fs ."
 }
